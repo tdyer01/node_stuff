@@ -1,0 +1,1 @@
+{"type":"UAP","location":{"latitude":"29.9753","longitude":"31.1376"},"eventTimeSpan":"13 minutes"}
